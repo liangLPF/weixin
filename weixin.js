@@ -1,7 +1,8 @@
 (function(){
 
 	var func = function(){
-		alert(123);
+		return window.innerWidth;
+		//alert(123);
 	};
 
 	window.func = func;
