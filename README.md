@@ -1,1 +1,1 @@
-weixin changePage 2015.10.01 ,my first git
+weixin changePage 2015.10.01 ,my first git,push up onetimes
